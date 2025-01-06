@@ -4,7 +4,7 @@
   </div>
   <!-- 其他內容 -->
    <div id = "_2ndpage"  class="base"  :class="{ visible: is2ndVisible }">
-    <h1>以為有什麼嗎？<br>沒有，現在就是啥都還沒有。<br>嘿嘿...555</h1>
+    <h1>以為有什麼嗎？<br>沒有，現在就是啥都還沒有。<br>測試Auto deploy好幾次了跟白痴一次...555</h1>
    </div>
 </template>
 
